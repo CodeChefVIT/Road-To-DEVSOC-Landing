@@ -1,32 +1,37 @@
 <p align="center"><a href="https://www.codechefvit.com" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="CodeChef-VIT" alt="Codechef-VIT"></a>
 </p>
 
-# Project Title
+# Road to DEVSOC Landing Page
 
 > <Subtitle>
-> Include project description here.
+> Official landing page for Road to DEVSOC 21.
 
 ---
-[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
-  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
+[![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://journey.codechefvit.com/)
 
 ## Features
-- Insert list of features here
+- Displays all event details
+- Responsive
+- Horizontal scroll
+- DEVSOC theme
 
 ## Screenshots
-<img src="https://github.com/akshatvg/common-entry-test/raw/master/static/img/header.png" alt="Project Screenshots">
+<center>
+<img src="https://i.ibb.co/KFTBDV0/Journey1.png" alt="Project Screenshots">
+<img src="https://i.ibb.co/VBfPvL4/Journey2.png" alt="Project Screenshots">
+<img src="https://i.ibb.co/PtwLNHp/Journey3.png" alt="Project Screenshots">
+<img src="https://i.ibb.co/Vtx0Vgt/Journey4.png" alt="Project Screenshots">
+</center>
 
 ## Instructions to run
 ```
-$ git clone https://github.com/CodeChefVIT/<Project>
-$ cd <Project>
-$ pip3 install -r requirements.txt
-$ python3 manage.py runserver
+$ git clone https://github.com/CodeChefVIT/Road-To-DEVSOC-Landing
+$ cd Road-To-DEVSOC-Landing
+$ live-server
 ```
 
 ## Contributors
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
+- <a href="https://github.com/akshatvg">Akshat Gupta</a>
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
